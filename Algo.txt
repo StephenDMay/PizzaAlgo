@@ -5,3 +5,8 @@
 5. Wait for delivery
 6. Pay for the pizza
 7. Enjoy the pizza
+
+If the order is incorrect:
+1. Call the restaurant
+2. Report the order as incorrect
+3. Wait for new pizza to arrive or Request a refund
