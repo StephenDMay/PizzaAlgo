@@ -1,0 +1,7 @@
+1. Decide on pizza restaurant
+2. Veiw menu and decide on pizza
+3. Call the restaurant
+4. Place the order
+5. Wait for delivery
+6. Pay for the pizza
+7. Enjoy the pizza
